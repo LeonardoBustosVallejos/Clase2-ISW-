@@ -67,3 +67,4 @@ if (numero3 % 5 === 0) {
 } else {
     console.log(`El numero3 (${numero3}) no es múltiplo de 5`);
 }
+
